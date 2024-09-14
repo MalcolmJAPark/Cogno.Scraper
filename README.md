@@ -1,8 +1,10 @@
-# Cogno.Scraper
-Cogno is a program that outputs a rating of the performance of leading investment banking companies by cross examining similar investments made in previous fiscal years.
-The rating is computed depending on a range of factors, such as overall performance of investment banks during the same quarter, sector in which the investment is completed, and amount 
-invested.
+# InfoNest:
+Title: Sentiment Analaysis
 
-Disclaimer: The content provided is for informational and entertainment purposes only. It should not be considered financial, investment, or professional advice. 
-You should not make any financial decisions based on the information presented without first consulting a qualified financial advisor. 
-The creator is not a licensed financial advisor and does not claim to be an expert in finance or investment.
+Description: This program is designed to scrape a company's quarterly earnings report and store the extracted data in an SQL database. It then analyzes the data to generate a comprehensive report on the company's business performance for that quarter. The analysis will include key financial metrics, performance trends, and a summary of significant business activities.
+
+Last Updated: 2024-09-25
+
+Author(s): Jooahn Park
+
+Utilised: Java, Scrapy, SQL, MySQL
